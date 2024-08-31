@@ -1,11 +1,9 @@
 import React from 'react';
 
+import "./App.css";
+
 function App() {
-  return (
-    <div>
-      <h1>app</h1>
-    </div>
-  );
+  return <h1>Minimal React Boilerplate</h1>
 }
 
 export default App;
