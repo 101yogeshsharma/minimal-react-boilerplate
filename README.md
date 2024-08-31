@@ -1,6 +1,6 @@
 # About the Minimal React Boilerplate 
 
-This is a simple boilerplate to get started learning and using React. The project was originally set up with [Create React App](https://github.com/facebook/create-react-app), but I've included a few more features that you'll need for a simple app. 
+This is a simple boilerplate to get started learning and using React. The project was originally set up with [Create React App](https://github.com/facebook/create-react-app), but I've removed some features that you'll not need to get start simple minimal react app. 
 
 ## Instructions
 
